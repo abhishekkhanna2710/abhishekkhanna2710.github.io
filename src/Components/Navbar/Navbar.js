@@ -1,22 +1,20 @@
-import navstyle from "./Navbar.module.css"
 // import PDF from "../Images/Abhishek_Khanna_c.v.pdf"
 import PDF from "../Images/Abhishek_Khanna_Resume.pdf"
 import { Link } from 'react-scroll'
 import Logo from "../Images/logo.png"
+import "./Navbar.css"
 
 
 function Navbar() {
 
-
     return (
-        <div className={navstyle.container}>
-            <div className={navstyle.navbar} id={navstyle.myTopnav}>
-
-                <div className={navstyle.logo}>
+        <div className="container">
+            <div id="nav-menu">
+                <div className="logo">
                     <img src={Logo} alt="" />
                 </div>
 
-                <div className={navstyle.nav_links}>
+                <div className="nav_links">
                     <ul>
                         <li> <Link activeClass="active"
                             spy={true}

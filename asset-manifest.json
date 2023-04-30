@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ffa4aff0.css",
-    "main.js": "/static/js/main.6b2e90ff.js",
+    "main.css": "/static/css/main.36022882.css",
+    "main.js": "/static/js/main.0b080011.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/zoom_car.png": "/static/media/zoom_car.28869f3664c72be97d66.png",
     "static/media/bookmyshow.png": "/static/media/bookmyshow.9c0157cafc676c5e20f4.png",
@@ -13,12 +13,12 @@
     "static/media/properto.jpg": "/static/media/properto.cc5ba030ec090b010c2e.jpg",
     "static/media/Abhishek_Khanna_Resume.pdf": "/static/media/Abhishek_Khanna_Resume.35bdc81e43c571d4a10e.pdf",
     "index.html": "/index.html",
-    "main.ffa4aff0.css.map": "/static/css/main.ffa4aff0.css.map",
-    "main.6b2e90ff.js.map": "/static/js/main.6b2e90ff.js.map",
+    "main.36022882.css.map": "/static/css/main.36022882.css.map",
+    "main.0b080011.js.map": "/static/js/main.0b080011.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffa4aff0.css",
-    "static/js/main.6b2e90ff.js"
+    "static/css/main.36022882.css",
+    "static/js/main.0b080011.js"
   ]
 }
